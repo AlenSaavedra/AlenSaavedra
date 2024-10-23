@@ -2,14 +2,26 @@
 Hello, I'm Patrick Molina!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+studying+Software+Engineering)
+
+---
+
+## 💻 About Me
+I'm a passionate **Software Developer** with a strong desire to learn and grow in the tech field. Currently, I'm pursuing a degree in **Software Engineering**, which allows me to dive deep into cutting-edge technologies and methodologies.
+
+My expertise spans across various programming languages and tools, and I’m always eager to tackle new challenges. I enjoy collaborating on projects that allow me to expand my knowledge, solve complex problems, and contribute to the tech community.
+
+- 🌍 Living in Ecuador but originally from Italy.
+- 💡 Always learning, improving, and building exciting projects.
+- 🔭 Interested in open-source, web development, and cloud technologies.
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alen_msaavedra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alensaavedra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alengamings5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaavedraAlen) 
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
     <a><img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -23,7 +35,7 @@ Hello, I'm Patrick Molina!
     
 </p>
 
-### 🧰 Frameworks and Libraries
+### Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="JavaFX" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"></a>
@@ -37,7 +49,7 @@ Hello, I'm Patrick Molina!
     <a href="#"><img alt="Talwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -51,7 +63,7 @@ Hello, I'm Patrick Molina!
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### Software and Tools
 
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -63,23 +75,17 @@ Hello, I'm Patrick Molina!
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
+### Workspace
+<p>
+    <a href="#"><img alt="HP Desktop PC" src="https://img.shields.io/badge/HP-Desktop_PC-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+
+## Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alen_msaavedra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alensaavedra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alengamings5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaavedraAlen) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlenSaavedra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlenSaavedra&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenSaavedra&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlenSaavedra&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlenSaavedra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AlenSaavedra&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
