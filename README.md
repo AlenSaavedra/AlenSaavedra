@@ -1,5 +1,6 @@
-# 💫 About Me:
-¡Hola! Soy un joven desarrollador de software con 22 años, nacido en Italia y actualmente viviendo en Ecuador. Tengo una pasión innata por la tecnología y el desarrollo, siempre con ansias de aprender y superarme. Mi objetivo es participar en proyectos innovadores donde pueda poner en práctica mis habilidades y seguir creciendo como profesional.<br><br>Mi enfoque está en encontrar soluciones eficientes, trabajar en equipo y enfrentar cada desafío como una oportunidad para mejorar. Estoy constantemente buscando nuevas herramientas y tecnologías que me permitan estar un paso adelante. Si estás buscando a alguien con energía, dedicación y un deseo inagotable de sobresalir, ¡hablemos!
+<h1 align="center">
+Hi, I'm Patrick Molina!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
 ## 🌐 Socials:
