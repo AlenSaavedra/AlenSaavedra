@@ -2,7 +2,8 @@
 Hello, I'm Patrick Molina!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+studying+Software+Engineering)
+<h2 align="center"><img alt="java" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+studying+Software+Engineering"></h2>
+
 
 ---
 
