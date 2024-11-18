@@ -86,7 +86,7 @@ My expertise spans across various programming languages and tools, and I’m alw
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
